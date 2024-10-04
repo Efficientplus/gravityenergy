@@ -28,4 +28,4 @@ A provisional patent application for this Work has been filed . This license doe
 We welcome contributions from the community! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to get involved.
 
 ## Contact
-For inquiries or collaboration requests, please contact [Hemanth kumar jagdev](jagdev@hemanthkumar@gmail.com).
+For inquiries or collaboration requests, please contact (jagdev@hemanthkumar@gmail.com).
