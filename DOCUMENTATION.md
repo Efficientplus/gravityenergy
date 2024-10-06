@@ -42,7 +42,7 @@ The system comprises a rotating cylinder that houses either a massive solid sphe
 - *Structure:* A sturdy, vertically-oriented cylinder constructed from durable materials like steel, ensuring structural integrity and longevity under operational stresses.
   
 - *Surface Features:*
-  - *Rigid Wall at Critical Angle:* Installed at approximately 68.2 degrees around the cylinder's circular track, this rigid barrier ensures that internal components maintain a consistent path, preventing slippage and ensuring stable motion.
+  - *Rigid Wall at Critical Angle:* Installed around the cylinder's circular track, this rigid barrier ensures that internal components maintain a consistent path, preventing slippage and ensuring stable motion.
 
 - *Gearing Mechanisms:*
   - *Outer Gears:* Mounted on the cylinder's outer surface, these gears engage with grooves on an external circular track, stabilizing the cylinder's rotation and minimizing friction.
@@ -182,11 +182,12 @@ To set up the *Gravity-Assisted Energy Recovery System*, follow these steps:
 
 - *Materials Needed:*
   - Durable vertical cylinder (e.g., steel)
-  - Massive solid sphere (e.g., steel or cast iron, ~2000 kg)
+  - Massive solid sphere (e.g., steel or cast iron, )
   - Hollow plastic sphere
   - Electric motor with precise speed control
   - Grooved circular track and corresponding gears
-  - Rigid wall set at critical angle (68.2 degrees)
+  - Rigid wall set at critical angle 
+
   - Water (for the alternative method)
   - Ball bearings and rotor arm components
   - Electrical generators
